@@ -17,7 +17,7 @@ Everything runs in VirtualBox on a MacBook Pro (Intel i7, 16 GB RAM), on an isol
 | Windows Server | Domain controller (Phase 2) | Planned |
 | Wazuh / Splunk | SIEM (Phase 4) | Planned |
 
-![Home lab diagram](phase-0-setup/home-lab-diagram.png)
+![Home lab diagram](Phase0/home-lab-diagram.png)
 
 ## Roadmap and progress
 
@@ -37,7 +37,7 @@ Each project gets its own folder with a write-up, screenshots and any code.
 
 | # | Project | Skills | Link |
 | --- | --- | --- | --- |
-| 0 | Home lab setup | VirtualBox, Kali Linux | [phase-0-setup](phase-0-setup/) |
+| 0 | Home lab setup | VirtualBox, Kali Linux | [Phase0](setup/) |
 
 ## Tools I'm learning
 
