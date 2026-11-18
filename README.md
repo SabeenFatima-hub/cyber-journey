@@ -12,7 +12,7 @@ Everything runs in VirtualBox on a MacBook Pro (Intel i7, 16 GB RAM), on an isol
 | Machine | Role | Status |
 | --- | --- | --- |
 | Kali Linux | Attacker machine | Done |
-| Ubuntu Server | Linux target | Planned |
+| Ubuntu Server | Linux target | Done |
 | Windows 10/11 | Employee workstation | Planned |
 | Windows Server | Domain controller (Phase 2) | Planned |
 | Wazuh / Splunk | SIEM (Phase 4) | Planned |
